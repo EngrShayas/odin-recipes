@@ -5,3 +5,4 @@ GitHub Repo: https://github.com/EngrShayas/odin-recipes
 
 Live Preview: https://engrshayas.github.io/odin-recipes/
 
+This project done only with basic html tags.
